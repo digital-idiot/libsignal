@@ -18,7 +18,7 @@ C library providing some basic functions for signal processing
     * Low Pass
     * High Pass
     * Band Pass
-    *Band Stop
+    * Band Stop
   * Windowing
     * Rectangular
     * Bartlett
